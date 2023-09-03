@@ -1,5 +1,5 @@
 ---
-Daniel Daimiao Chen's Blog
+title: Daniel Daimiao Chen's Blog
 ---
 
 I start my gap year at September 2022, and got a offer from Fanshawe College to have a study.
